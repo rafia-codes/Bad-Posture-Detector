@@ -29,7 +29,7 @@ And provides live feedback with ✅ Good or ❌ Bad status based on your detecte
 ## 🚀 Live Demo & Resources
 
 - 🔗 **Live App:** [[https://your-app.netlify.app](https://your-app.netlify.app)](https://bad-posture-detector-blue.vercel.app/)
-- 📹 **Demo Video:** [https://youtu.be/your-demo-link](https://youtu.be/your-demo-link)
+- 📹 **Demo Video:** [[https://youtu.be/your-demo-link](https://youtu.be/your-demo-link)](https://drive.google.com/file/d/1AqyAWhZaWyWh3hDJI3UTRf1pN0g2PNpb/view?usp=sharing)
 - 💻 **GitHub Repository:** [[https://github.com/yourusername/posture-detector](https://github.com/yourusername/posture-detector)](https://github.com/rafia-codes/Bad-Posture-Detector)
 
 ---
